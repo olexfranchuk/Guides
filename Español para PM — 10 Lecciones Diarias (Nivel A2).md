@@ -1018,4 +1018,90 @@ Intenta responder:
 
 ---
 
+---
+
+## 📚 DICCIONARIO COMPLETO — Todos los 10 (diez) Días
+
+| Español | Ucraniano | Día |
+| --- | --- | --- |
+| el riesgo | ризик | 1 |
+| el hito | віха | 1 |
+| la entrega | поставка | 1 |
+| el equipo | команда | 1 |
+| el proyecto | проект | 1 |
+| el cliente | клієнт | 1 |
+| el tiempo | час | 1 |
+| importante | важливий | 1 |
+| principal | основний | 1 |
+| la reunión | зустріч | 2 |
+| el retraso | затримка | 2 |
+| la comunicación | комунікація | 2 |
+| regular | регулярно | 2 |
+| claro | ясний | 2 |
+| lunes | понеділок | 2 |
+| la estimación | оцінка | 3 |
+| los recursos | ресурси | 3 |
+| el plazo | термін, дедлайн | 3 |
+| semana | тиждень | 3 |
+| realista | реалістичний | 3 |
+| difícil | складний | 3 |
+| matemáticas | математика | 3 |
+| la responsabilidad | відповідальність | 4 |
+| delegar | делегувати | 4 |
+| el rol | роль | 4 |
+| tarea | завдання | 4 |
+| confusión | плутанина | 4 |
+| motivado | мотивований | 4 |
+| el problema | проблема | 5 |
+| la solución | рішення | 5 |
+| la lección | урок, лекція | 5 |
+| enseñar | вчити, навчати | 5 |
+| evitar | уникати | 5 |
+| enemigo | ворог | 5 |
+| el equilibrio | баланс | 6 |
+| jugar | грати | 6 |
+| la diversión | розвага, веселість | 6 |
+| relajarse | розслабитися | 6 |
+| estrés | стрес | 6 |
+| agotado | виснажений | 6 |
+| proteger | захистити | 6 |
+| la propuesta | пропозиція | 7 |
+| el presupuesto | бюджет | 7 |
+| el objetivo | мета | 7 |
+| startup | стартап | 7 |
+| tarjeta | карта | 7 |
+| wallet | гаманець | 7 |
+| reportes | звіти, доповіді | 7 |
+| el contrato | контрат | 8 |
+| la calidad | якість | 8 |
+| el estándar | стандарт, норма | 8 |
+| perfección | досконалість | 8 |
+| code review | перевірка коду | 8 |
+| bug crítico | критичний баг | 8 |
+| el testing | тестування | 9 |
+| el bug | баг | 9 |
+| la prueba | тест | 9 |
+| manual | ручне | 9 |
+| automático | автоматичне | 9 |
+| crítico | критичне | 9 |
+| reporte | звіт | 9 |
+| arreglar | виправити | 9 |
+| verificar | перевірити | 9 |
+| función | функція | 9 |
+| producción | production | 9 |
+| el lanzamiento | запуск | 10 |
+| el feedback | відгук | 10 |
+| el éxito | успіх | 10 |
+| la plataforma | платформа | 10 |
+| el pago | платіж | 10 |
+| descargar | завантажити | 10 |
+| el comprobante | квитанція | 10 |
+| exitoso | успішний | 10 |
+| mejorar | покращити | 10 |
+| continuamente | постійно | 10 |
+| ágil | гнучкий | 10 |
+| perfecto | ідеальний | 10 |
+
+---
+
 **¡Felicidades! Completaste los 10 (diez) días de lecciones de español para PM.** 🎉📚
