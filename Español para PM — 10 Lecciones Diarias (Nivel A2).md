@@ -552,8 +552,8 @@ El cliente habla de sus necesidades. Yo tomo notas. "Queremos lanzar en marzo. N
 Ahora es mi trabajo. Necesito hacer una **propuesta** con:
 
 1. **Objetivo** claro: "Lanzar plataforma de pagos en marzo"
-2. **Recursos** necesarios: equipo de cinco (cinco) personas
-3. **Plazo** realista: cuatro (cuatro) meses
+2. **Recursos** necesarios: equipo de 5 (cinco) personas
+3. **Plazo** realista: 4 (cuatro) meses
 4. **Presupuesto** honesto: ciento veinte mil dólares (ciento veinte mil)
 
 Pero hay un **problema**. El cliente dijo que tiene ochenta mil dólares (ochenta mil). Es menos de lo que necesito. ¿Qué hago?
@@ -659,7 +659,7 @@ Intenta responder:
 
 Después de la **reunión** con el cliente nuevo, llegó el momento importante: el **contrato**. Esto no es romántico — es serio.
 
-El cliente quiere pagar ochenta mil (ochenta mil) dólares y lanzar en marzo. Yo necesito escribir un **contrato** que proteja a mi **equipo**, al cliente y a mí.
+El cliente quiere pagar 80,000 (ochenta mil) dólares y lanzar en marzo. Yo necesito escribir un **contrato** que proteja a mi **equipo**, al cliente y a mí.
 
 ¿Qué pongo en el **contrato**?
 
@@ -671,11 +671,11 @@ El cliente quiere pagar ochenta mil (ochenta mil) dólares y lanzar en marzo. Yo
 
 Yo escribo estándares realistas:
 
-- "El código debe pasar revisión de dos (dos) personas (code review)"
+- "El código debe pasar revisión de 2 (dos) personas (code review)"
 - "Cada función importante tiene test automático"
-- "Bugs críticos se resuelven en veinticuatro (veinticuatro) horas"
+- "Bugs críticos se resuelven en 24 (veinticuatro) horas"
 
-Esto no es perfección. Es **calidad** realista. El cliente entiende: si quiere cien por ciento (cien por ciento) **calidad**, necesita más dinero. Si quiere ochenta mil (ochenta mil) dólares, acepta ochenta y cinco por ciento (ochenta y cinco por ciento) **calidad**.
+Esto no es perfección. Es **calidad** realista. El cliente entiende: si quiere 100% (cien por ciento) **calidad**, necesita más dinero. Si quiere 80,000 (ochenta mil) dólares, acepta 85% (ochenta y cinco por ciento) **calidad**.
 
 **Cuarto, los plazos:** Especifico cada **hito**:
 
@@ -688,16 +688,16 @@ Esto no es perfección. Es **calidad** realista. El cliente entiende: si quiere 
 
 **Quinto, las revisiones:** "Reunión cada lunes para revisar progreso. Si hay **riesgo**, lo hablamos inmediatamente. Sin sorpresas."
 
-El cliente lee el **contrato**. Hace preguntas. Es bueno — significa que entiende. Después de dos (dos) **reuniones**, firma.
+El cliente lee el **contrato**. Hace preguntas. Es bueno — significa que entiende. Después de 2 (dos) **reuniones**, firma.
 
 ¿El resultado? Un **contrato** con:
 
 - **Objetivo** claro
-- **Equipo** realista (tres (tres) personas)
+- **Equipo** realista (3 (tres) personas)
 - **Calidad** definida (no perfecta, pero buena)
 - **Estándares** técnicos escritos
 - **Hitos** específicos
-- **Plazo** de cuatro (cuatro) meses
+- **Plazo** de 4 (cuatro) meses
 
 Esto es lo opuesto a prometer todo. Es prometer lo que puedo cumplir. Y eso es lo que protege a todos.
 
@@ -741,7 +741,7 @@ Esto es lo opuesto a prometer todo. Es prometer lo que puedo cumplir. Y eso es l
 ### 📝 Minipráctica
 
 **Pregunta:** ¿Cuántas personas tienes en el equipo?\
-**Respuesta (ejemplo):** Tengo tres (tres) personas — backend, frontend y QA.
+**Respuesta (ejemplo):** Tengo 3 (tres) personas — backend, frontend y QA.
 
 Intenta responder:
 
@@ -780,7 +780,7 @@ Intenta responder:
 
 **"Testing: El Guardián de la Calidad"**
 
-Cuando escribí el **contrato** con el cliente nuevo, especifiqué algo importante: "El código debe pasar revisión de dos (dos) personas. Cada función importante tiene test automático. Bugs críticos se resuelven en veinticuatro (veinticuatro) horas."
+Cuando escribí el **contrato** con el cliente nuevo, especifiqué algo importante: "El código debe pasar revisión de 2 (dos) personas. Cada función importante tiene test automático. Bugs críticos se resuelven en 24 (veinticuatro) horas."
 
 ¿Pero quién verifica esto? Mi **rol** es coordinar, no escribir código. Para eso existe QA — Quality Assurance (Aseguramiento de Calidad).
 
@@ -792,7 +792,7 @@ Hoy tuve **reunión** con Pedro, mi QA. Es el guardián de la **calidad**.
 
 - "Necesito **testing** manual para casos complicados"
 - "Necesito **pruebas** automáticas para funciones críticas"
-- "Necesito que cada **bug** se reporte veinticuatro (veinticuatro) horas después de encontrarlo"
+- "Necesito que cada **bug** se reporte 24 (veinticuatro) horas después de encontrarlo"
 
 Esto es profesional. No es "encontrar **bugs**" — es crear **pruebas** que evitan **bugs**.
 
@@ -802,14 +802,14 @@ Esto es profesional. No es "encontrar **bugs**" — es crear **pruebas** que evi
 2. El desarrollador escribe **pruebas** automáticas (unit tests)
 3. Pedro hace **testing** manual (QA testing)
 4. Pedro encuentra un **bug** = lo reporta
-5. El desarrollador lo arregla en veinticuatro (veinticuatro) horas
+5. El desarrollador lo arregla en 24 (veinticuatro) horas
 6. Pedro verifica que el **bug** está arreglado
 
-¿Cuánto tiempo toma? Si tengo cinco (cinco) funciones principales, y cada **prueba** toma dos (dos) horas de **testing**, son diez (diez) horas. Eso es uno (uno) día de trabajo para Pedro.
+¿Cuánto tiempo toma? Si tengo 5 (cinco) funciones principales, y cada **prueba** toma 2 (dos) horas de **testing**, son 10 (diez) horas. Eso es 1 (uno) día de trabajo para Pedro.
 
-Pero aquí viene el secreto: si hacemos **testing** bien ahora, evitamos **bugs** después del lanzamiento. Y un **bug** después del lanzamiento cuesta diez (diez) veces más arreglar que antes.
+Pero aquí viene el secreto: si hacemos **testing** bien ahora, evitamos **bugs** después del lanzamiento. Y un **bug** después del lanzamiento cuesta 10 (diez) veces más arreglar que antes.
 
-El cliente pagó ochenta mil (ochenta mil) dólares. De eso, quince mil (quince mil) dólares son para **testing** y QA. Es dieciocho por ciento (dieciocho por ciento) del presupuesto. Algunos managers piensan "es demasiado dinero para **testing**". No. Es inversión en **calidad**.
+El cliente pagó 80,000 (ochenta mil) dólares. De eso, quince mil (quince mil) dólares son para **testing** y QA. Es 18% (dieciocho por ciento) del presupuesto. Algunos managers piensan "es demasiado dinero para **testing**". No. Es inversión en **calidad**.
 
 ¿Por qué? Porque un **bug** crítico en producción puede costar:
 
@@ -853,7 +853,7 @@ Mi **equipo** entiende: la **calidad** no es lujo. Es obligación.
 ### 📝 Minipráctica
 
 **Pregunta:** ¿Cuánto tiempo toma hacer testing?\
-**Respuesta (ejemplo):** Toma diez (diez) horas de testing para cinco (cinco) funciones.
+**Respuesta (ejemplo):** Toma 10 (diez) horas de testing para 5 (cinco) funciones.
 
 Intenta responder:
 
@@ -897,15 +897,15 @@ Intenta responder:
 
 **"El Lanzamiento: Momento de la Verdad"**
 
-Llegó el quince (quince) de marzo. Es el día del **lanzamiento**. Mi **equipo** trabajó cuatro (cuatro) meses. Pedro hizo **testing** riguroso. El **contrato** se cumplió.
+Llegó el 15 (quince) de marzo. Es el día del **lanzamiento**. Mi **equipo** trabajó 4 (cuatro) meses. Pedro hizo **testing** riguroso. El **contrato** se cumplió.
 
-A las ocho (ocho) de la mañana, tuve una **reunión** final con el cliente. Estamos en video-llamada. El cliente ve la plataforma por primera vez en producción. El corazón late rápido — esto es lo importante.
+A las 8 (ocho) de la mañana, tuve una **reunión** final con el cliente. Estamos en video-llamada. El cliente ve la plataforma por primera vez en producción. El corazón late rápido — esto es lo importante.
 
 "¿Puedo hacer un pago?" pregunta el cliente.
 
 Mi desarrollador backend responde: "Sí, está listo."
 
-El cliente toma su tarjeta. Hace un pago de cien (cien) dólares. La plataforma procesa. Después de tres (tres) segundos: "Pago exitoso."
+El cliente toma su tarjeta. Hace un pago de 100 (cien) dólares. La plataforma procesa. Después de 3 (tres) segundos: "Pago exitoso."
 
 El cliente dice: "¡Excelente! ¡Funciona!"
 
@@ -917,7 +917,7 @@ En la primera semana, el cliente usa la plataforma real. Encuentra cosas que fun
 
 - "¿Por qué el wallet digital es lento en el login?"
 - "¿Por qué no hay botón para descargar un comprobante?"
-- "¿Por qué el email de confirmación llega en cinco (cinco) minutos, no inmediatamente?"
+- "¿Por qué el email de confirmación llega en 5 (cinco) minutos, no inmediatamente?"
 
 Esto no es **retraso** — es **feedback**. Es información valiosa. El cliente dice: "Funciona, pero podría mejorar."
 
@@ -929,19 +929,19 @@ Mi **rol** cambia ahora. No es más cumplir el contrato. Es mejorar continuament
 
 Las respuestas:
 
-- Login lento: ocho (ocho) horas para arreglar
-- Botón descargar: cuatro (cuatro) horas para agregar
-- Emails inmediatos: dos (dos) horas para configurar
+- Login lento: 8 (ocho) horas para arreglar
+- Botón descargar: 4 (cuatro) horas para agregar
+- Emails inmediatos: 2 (dos) horas para configurar
 
-Total: catorce (catorce) horas de trabajo. Menos de dos (dos) días.
+Total: 14 (catorce) horas de trabajo. Menos de 2 (dos) días.
 
 Esto es lo importante — después del **lanzamiento**, somos ágiles. Escuchamos el **feedback**. Mejoramos rápido.
 
-Después de dos (dos) semanas, todo está arreglado. El cliente prueba de nuevo. Dice: "¡Mucho mejor! Ahora es perfecto para nosotros."
+Después de 2 (dos) semanas, todo está arreglado. El cliente prueba de nuevo. Dice: "¡Mucho mejor! Ahora es perfecto para nosotros."
 
 ¿Cuál es la **lección**? El **éxito** no es el **lanzamiento**. El **éxito** es después del **lanzamiento**, cuando escuchas el **feedback** y mejoras.
 
-Mi **equipo** está feliz. El cliente está feliz. Mi **equilibrio** también — trabajamos ocho (ocho) horas por día, no diez (diez). El fin de semana jugué pickle ball.
+Mi **equipo** está feliz. El cliente está feliz. Mi **equilibrio** también — trabajamos 8 (ocho) horas por día, no 10 (diez). El fin de semana jugué pickle ball.
 
 El **éxito** es esto: un producto que funciona, un **equipo** que está bien, un cliente que vuelve para más.
 
@@ -989,7 +989,7 @@ El **éxito** es esto: un producto que funciona, un **equipo** que está bien, u
 ### 📝 Minipráctica
 
 **Pregunta:** ¿Cuándo fue el lanzamiento?\
-**Respuesta (ejemplo):** El lanzamiento fue el quince (quince) de marzo.
+**Respuesta (ejemplo):** El lanzamiento fue el 15 (quince) de marzo.
 
 Intenta responder:
 
